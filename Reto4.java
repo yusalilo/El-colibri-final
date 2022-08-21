@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package reto4;
-
+Nicolas PrO
 //NO ELIMINAR ESTA IMPORTACIÓN. SE REQUIERE
 //PARA LA EJECUCIÓN DEL MÉTODO generarCredenciales()
 import java.util.Random;
