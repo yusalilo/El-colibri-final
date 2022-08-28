@@ -1,0 +1,10 @@
+public class profile {
+
+    private String id;
+    private String image;
+    private String phone;
+    private User user;
+    private createdAt date;
+    private updatedAt date;
+
+}
